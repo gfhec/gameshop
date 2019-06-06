@@ -1,0 +1,32 @@
+.all {
+	background-color: #2b6d77;
+	padding-bottom: ;
+}
+h1 {
+	font-family: arial;
+	color: white;
+	font-weight: small;
+	margin-left: 100px;
+	padding-bottom: 40px;
+	padding-top: 25px;
+}
+p {
+	color: grey;
+	font-family: arial;
+	padding-top: 30px;
+	margin-left: 10px;
+}
+h2 {
+	color: black;
+	font-family: arial;
+	margin-left: 15px;
+}
+.flex {
+	display: flex;
+}
+.big_divs {
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1350px;
+}
